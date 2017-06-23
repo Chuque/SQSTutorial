@@ -6,10 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="SQSDefaultTutorial" />
         <module name="SQSTest" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="SQSDefaultTutorial" target="1.5" />
       <module name="SQSTest" target="1.5" />
     </bytecodeTargetLevel>
   </component>

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SQSDefaultTutorial.iml" filepath="$PROJECT_DIR$/SQSDefaultTutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SQSTutorial.iml" filepath="$PROJECT_DIR$/SQSTutorial.iml" />
     </modules>
   </component>
 </project>
